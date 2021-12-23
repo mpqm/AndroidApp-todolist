@@ -1,6 +1,6 @@
 **Using**
 
-*SQlite
-*RecyclerView
+* SQlite
+* RecyclerView
 
 **Running Screen**
